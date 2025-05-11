@@ -1,8 +1,6 @@
 
 # Optymalizator Płatności / Payment Optimizer
 
----
-
 ##  README (English)
 
 ###  System Requirements
