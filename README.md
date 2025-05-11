@@ -61,8 +61,6 @@ mZysk       165.00
 BosBankrut  190.00  
 ```
 
----
-
  **Note**: The Fat JAR (`app-with-dependencies.jar`) includes all necessary libraries for standalone execution.
 
 ---
@@ -124,3 +122,4 @@ PUNKTY      100.00
 mZysk       165.00  
 BosBankrut  190.00  
 ```
+---
