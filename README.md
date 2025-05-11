@@ -12,7 +12,7 @@
 
 1. Sklonuj repozytorium:
    ```bash
-   git clone [adres_repozytorium]
+   git clone https://github.com/Buber11/ocado-rec
    ```
 
 2. Zbuduj projekt jako Fat JAR (z zależnościami):
@@ -72,7 +72,7 @@ BosBankrut  190.00
 
 1. Clone the repository:
    ```bash
-   git clone [repository_url]
+   git clone https://github.com/Buber11/ocado-rec
    ```
 
 2. Build the project with dependencies (Fat JAR):
