@@ -1,4 +1,4 @@
-
+Jakub_Balcerzak_Java_Wrocław 
 # Optymalizator Płatności / Payment Optimizer
 
 ##  README (English)
